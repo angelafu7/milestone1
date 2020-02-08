@@ -1,0 +1,14 @@
+---
+title: "Milestone 1"
+author: "Angela Fu"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+_Paper_: "How the news media activate public expression and influence national agendas" by Gary King, Benjamin Schneer, and Ariel White.
+
+I'm considering this paper because it explores an interesting question, whether media activity affects the way the public engages with the topics discussed in the media. In a sense, it measures the effectivity of the media in its goal of informing the public. Because the authors of this paper conducted an experiment (as opposed to a simple observational study), their results also imply a causal finding.
